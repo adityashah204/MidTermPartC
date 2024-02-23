@@ -13,6 +13,12 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+
+//MIDTERM PART C 
+// created by Aditya Shah 
+//Adding comments in GitHub Repo.
+
 public class UserProfile 
 {
     
@@ -60,6 +66,7 @@ public class UserProfile
     public void setGenre(String genre) {
         this.genre = genre;
     }
+
     
     
     
